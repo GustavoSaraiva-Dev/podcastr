@@ -1,0 +1,10 @@
+.Main {
+	flex: 1;
+
+	&.Dark {
+		background: #14141b;
+	}
+	&.Light {
+		background: var(--white);
+	}
+}
